@@ -1,2 +1,2 @@
 # garrysmod things
-These are small glua scripts for garry's mod, that were made by me
+A collection of small scripts that can be useful for server owners and just players of Garry's mod (glua)
