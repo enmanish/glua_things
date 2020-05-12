@@ -1,2 +1,2 @@
-# glua_things
-These are small glua scripts, that were made by me
+# garrysmod things
+These are small glua scripts for garry's mod, that were made by me
