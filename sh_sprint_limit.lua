@@ -1,3 +1,10 @@
+-- Скрипт позволяет уменьшить скорость передвижения влево, вправо и назад.
+-- Написан не мною, но вещь довольно полезная.
+
+-- The script allows you to reduce the speed of movement to the left, right and back.
+-- It wasn't written by me, but it's quite useful.
+
+
 hook.Add("SetupMove", "SprintLimit", function(pl, mv, cmd)
 	if pl:GetMoveType() ~= MOVETYPE_WALK then return end
 
